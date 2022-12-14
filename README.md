@@ -6,3 +6,5 @@ Each directory pre-aapended with 'AUTO' is an EXAMPLE configuration of my Sols_O
 Sols_Omega_Template is my final template and older GUI templates i may not be uploading as Sols_Omega_Template is far superior, flexible, dynamic and advanced.
 
 Sols_Omega_Template may be updated and is my final template as it enables me to make very advanced applications extremely qickly because I programmed it to program for me. Just write into the created functions, show/hide, resize if needed. Done.
+
+This example illustrates how objects can be used and are already multithreaded using timers that are automatically created by default. (CTRL+F '# TEST' to see changes from my standard template). Thats it.
